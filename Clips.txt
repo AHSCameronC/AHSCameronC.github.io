@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#blog">blog</a></li>
+  <li><a href="#coaching/game mechanics">Coaching/game mechanics</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<h1> Coaching/Game Mechanics</h1>
+
+<h2> Clip #1</h2>
+
+<p>In Clip #1, I will teach you about the controls. How if your playing on controller. It is the left stick to move around. The right stick is for looking around. Like looking up, down, left, right. To punch, it is the right trigger.  The left trigger is to place things. The A button is to jump. </p>
+
+<h2> Clip #2</h2>
+
+<p> In Clip #2, I will teach you what material you need to make tools. Step 1, you would need to go punch trees so then you can get wood. After you get the material. Go into your inventory and find a crafting table. Build the crafting table so then you can make the tools. After that.  Make sticks and create your tools. To get stone, you would have to go mine stone so then you can get stone tools.</p>
+
+<h2> Clip #3</h2>
+
+<p> In Clip 3, I will teach what to look for when you are mining. The first thing you would want to do is to get alot of stone and sticks to create stone pickaxes. Once you have a lot of them, mine down and look for coal or iron. Iron, you can use it to make better tools to mine diamonds.</p>
+
+<h2> Clip #4</h2> 
+
+<p> In Clip 4, I will teach you how to make a decent first house. So what you will want to do is use any material that you have. So what wour going to want to do is make a 10x10 square. Leave one whole on whatever side for the door. Then build up three blocks on all sides accept the one column were the door goes. Next you will want to build a roof. You can either make it flat or make it like a traditional house. After that create a floor and theres your house. </p>
+
+<h2> Clip #5</h2>
+
+<p> In Clip #5, I will show you how to create a neather portal. First, you will have to go to the bottom of the world and try to find lava. Once you find obsidion, you will have to have a diamond pickaxes.  After that, get 14 pieces of obsidian. Once you set it up 5 up and 4 wide.  Then get a flint and stone, and light it. Then there you go, you have a working neather portal.</p>
+
+<h2> Clip #6</h2>
+
+<p> In Clip 6, I will show you how to beat the neather dragon. What you are going to want to do, is get lots of material. Once you get there, you will build up to the top of the towers and destroy the stuff on top. After that, either start stabbing the ender dragon or start shooting it with arrows. Once you killed it. You have completed most things in the game.</p> </body>
+
+
+
+
+
+</html>
+
+
